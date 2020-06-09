@@ -1,2 +1,2 @@
 # Xaringan Template
-This repository store a Xaringan Template Presentation
+This repository store a Xaringan Template Presentation.
